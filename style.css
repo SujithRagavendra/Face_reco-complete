@@ -1,0 +1,26 @@
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+body{
+color: gray;
+background-color: floralwhite;
+}
+.object{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+#webcam{
+width: 350px;
+height: 350px;
+border: 2px  dashed  black;
+}
+#obj{
+    color: midnightblue;
+    font-size: 25px;
+}
+#accur{
+    color: midnightblue;
+    font-size: 25px;
+}
